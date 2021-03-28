@@ -19,7 +19,7 @@ xxh host
 
 ## Known issues
 
-We should make the process is seamless. Without `zoxide init`.
+We should make the process seamless. Without `zoxide init`.
 
 ## Credits
 
