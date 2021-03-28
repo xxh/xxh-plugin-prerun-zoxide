@@ -1,5 +1,5 @@
 <p align="center">
-Using zoxide in xxh.
+Using <a href="https://github.com/ajeetdsouza/zoxide">zoxide</a> in xxh. Zoxide is a faster way to navigate your filesystem.
 </p>
 
 <p align="center">  
