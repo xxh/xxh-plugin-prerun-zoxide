@@ -7,12 +7,12 @@ If you like the idea click ⭐ on the repo and <a href="https://twitter.com/inte
 </p>
 
 ## Install
-```
+```shell
 xxh +I https://github.com/xxh/xxh-plugin-prerun-zoxide
 ```
 
 ## Usage
-```
+```shell
 xxh host
 # zoxide init <yourshell>
 ```
