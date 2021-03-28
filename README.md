@@ -14,12 +14,18 @@ xxh +I https://github.com/xxh/xxh-plugin-prerun-zoxide
 ## Usage
 ```shell
 xxh host
-# zoxide init <yourshell>
+cd /etc
+cd /tmp
+z e
+# /etc
 ```
 
-## Known issues
+## Supported xxh-shells
 
-We should make the process seamless. Without `zoxide init`.
+* xxh-shell-xonsh
+* xxh-shell-zsh
+* xxh-shell-fish
+* xxh-shell-bash-zero
 
 ## Credits
 
