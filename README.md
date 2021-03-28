@@ -22,10 +22,10 @@ z e
 
 ## Supported xxh-shells
 
-* xxh-shell-xonsh
-* xxh-shell-zsh
-* xxh-shell-fish
-* xxh-shell-bash-zero
+* [xxh-shell-xonsh](https://github.com/xxh/xxh-shell-xonsh)
+* [xxh-shell-zsh](https://github.com/xxh/xxh-shell-zsh)
+* [xxh-shell-fish](https://github.com/xxh/xxh-shell-fish)
+* [xxh-shell-bash](https://github.com/xxh/xxh-shell-bash)
 
 ## Credits
 
