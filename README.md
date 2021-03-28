@@ -27,6 +27,8 @@ z e
 * [xxh-shell-fish](https://github.com/xxh/xxh-shell-fish)
 * [xxh-shell-bash](https://github.com/xxh/xxh-shell-bash)
 
+Add your shell by creating `pluginrc` file.
+
 ## Credits
 
 This plugin was created with [xxh-prerun-plugin cookiecutter template](https://github.com/xxh/cookiecutter-xxh-plugin-prerun).
