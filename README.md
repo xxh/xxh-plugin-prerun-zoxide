@@ -8,7 +8,7 @@ If you like the idea click ⭐ on the repo and <a href="https://twitter.com/inte
 
 ## Install
 ```shell
-xxh +I https://github.com/xxh/xxh-plugin-prerun-zoxide
+xxh +I xxh-plugin-prerun-zoxide
 ```
 
 ## Usage
