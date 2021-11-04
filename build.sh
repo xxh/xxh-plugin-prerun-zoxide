@@ -42,8 +42,9 @@ build() {
   _ostype=unknown-linux-$_clibtype
   _target="$_cputype-$_ostype"
   rm -rf "zoxide-$_target"
+
   curl -s https://api.github.com/repos/ajeetdsouza/zoxide/releases/latest | grep "browser_download_url" | cut -d '"' -f 4 | grep "$_target" | xargs -n 1 curl -LJO
-  mv "zoxide-$_target" "zoxide"
+  tar -xf zoxide-*.tar.gz zoxide
   chmod +x zoxide
 
 }
