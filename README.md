@@ -6,10 +6,6 @@ Using <a href="https://github.com/ajeetdsouza/zoxide">zoxide</a> in xxh. Zoxide 
 If you like the idea click ⭐ on the repo and <a href="https://twitter.com/intent/tweet?text=Nice%20plugin%20for%20the%20xxh%20project!&url=https://github.com/xxh/xxh-plugin-prerun-zoxide" target="_blank">tweet</a>.
 </p>
 
-## Note!
-
-You can use [xontrib-jump-to-dir](https://github.com/anki-code/xontrib-jump-to-dir) as lightweight zero-dependency implementation of autojump or [xxh-plugin-prerun-zoxide](https://github.com/xxh/xxh-plugin-prerun-zoxide) projects functionality.
-
 ## Install
 ```shell
 xxh +I xxh-plugin-prerun-zoxide
@@ -26,7 +22,7 @@ z e
 
 ## Supported xxh-shells
 
-* [xxh-shell-xonsh](https://github.com/xxh/xxh-shell-xonsh)
+* [xxh-shell-xonsh](https://github.com/xxh/xxh-shell-xonsh). Note! You can use [xontrib-jump-to-dir](https://github.com/anki-code/xontrib-jump-to-dir) as lightweight zero-dependency implementation of autojump or zoxide projects functionality.
 * [xxh-shell-zsh](https://github.com/xxh/xxh-shell-zsh)
 * [xxh-shell-fish](https://github.com/xxh/xxh-shell-fish)
 * [xxh-shell-bash](https://github.com/xxh/xxh-shell-bash)
